@@ -1,5 +1,5 @@
 import unittest
-from githubapi import commitsGET, repositoryGET
+from Githubapi import commitsGET, repositoryGET
 
 class TestGithub(unittest.TestCase):
     
